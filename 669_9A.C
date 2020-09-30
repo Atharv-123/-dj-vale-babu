@@ -6,7 +6,7 @@ main()
 char s1[100], s2[100] ;
 int i;
 clrscr();
-printf("\nEnter ypur string for upper case\n");
+printf("\nEnter ypur string for upper case : --\n");
 gets(s1);
 for(i=0;s1[i]!='\o';i++)
 {
